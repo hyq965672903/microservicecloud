@@ -1,2 +1,3 @@
 F:\SpringCloud\code\microservicecloud\microservicecloud-api\src\main\java\com\hyq\springcloud\entities\Dept.java
 F:\SpringCloud\code\microservicecloud\microservicecloud-api\src\main\java\com\hyq\springcloud\service\DeptClientService.java
+F:\SpringCloud\code\microservicecloud\microservicecloud-api\src\main\java\com\hyq\springcloud\service\DeptClientServiceFallbackFactory.java
