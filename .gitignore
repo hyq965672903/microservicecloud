@@ -7,3 +7,12 @@ target/*
 .idea
 .idea/*
 *.iml
+*.MF
+microservicecloud-api/target/classes/META-INF/MANIFEST.MF
+microservicecloud-api/target/classes/META-INF/maven/com.hyq.springcloud/microservicecloud-api/pom.properties
+microservicecloud-api/target/classes/META-INF/MANIFEST.MF
+microservicecloud-api/target/classes/META-INF/maven/com.hyq.springcloud/microservicecloud-api/pom.properties
+microservicecloud-consumer-dept-80/target/classes/META-INF/MANIFEST.MF
+microservicecloud-consumer-dept-80/target/classes/META-INF/maven/com.hyq.springcloud/microservicecloud-consumer-dept-80/pom.properties
+microservicecloud-eureka-7001/target/classes/META-INF/MANIFEST.MF
+microservicecloud-eureka-7001/target/classes/META-INF/maven/com.hyq.springcloud/microservicecloud-eureka-7001/pom.properties
